@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">IMC - APP - B</string>
+    <string name="title_activity_ncd">NcdActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+
+    <string name="selected_item">Selected item:</string>
+
+    <string-array name="lista_atividades">
+        <item>Selecione</item>
+        <item>Nenhuma</item>
+        <item>Leve</item>
+        <item>Moderado</item>
+        <item>Intenso</item>
+    </string-array>
+
+</resources>
